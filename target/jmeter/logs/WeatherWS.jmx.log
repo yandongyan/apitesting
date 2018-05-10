@@ -1,35 +1,35 @@
-2018/05/10 13:30:41 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: Loading user properties from: E:\eclipse-workspace\APItest\target\jmeter\bin\user.properties 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: Loading system properties from: E:\eclipse-workspace\APItest\target\jmeter\bin\system.properties 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: Copyright (c) 1998-2014 The Apache Software Foundation 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: Version 2.11 r1554548 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: java.version=1.8.0_161 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: os.name=Windows 10 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: os.arch=amd64 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: os.version=10.0 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: file.encoding=GBK 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: Default Locale=English (United States) 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: JMeterHome=E:\eclipse-workspace\APItest\target\jmeter 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: user.dir  =E:\eclipse-workspace\APItest\target\jmeter\bin 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: PWD       =E:\eclipse-workspace\APItest\target\jmeter\bin 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: IP: 10.72.1.99 Name: EPCNSZUW0068 FullName: windows10.microdone.cn 
-2018/05/10 13:30:41 INFO  - jmeter.services.FileServer: Default base='E:\eclipse-workspace\APItest\target\jmeter\bin' 
-2018/05/10 13:30:41 INFO  - jmeter.services.FileServer: Set new base='E:\eclipse-workspace\APItest\src\test\jmeter' 
-2018/05/10 13:30:41 INFO  - jmeter.JMeter: Loading file: E:\eclipse-workspace\APItest\src\test\jmeter\WeatherWS.jmx 
-2018/05/10 13:30:41 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
-2018/05/10 13:30:41 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
-2018/05/10 13:30:41 INFO  - jmeter.save.SaveService: Using SaveService properties version 4.0 
-2018/05/10 13:30:41 WARN  - jmeter.save.SaveService: Bad _version - expected 2.6, found 4.0. 
-2018/05/10 13:30:41 INFO  - jmeter.save.SaveService: All converter versions present and correct 
-2018/05/10 13:30:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
-2018/05/10 13:30:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
-2018/05/10 13:30:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
-2018/05/10 13:30:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
-2018/05/10 13:30:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
-2018/05/10 13:30:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
-2018/05/10 13:30:41 ERROR - jmeter.save.SaveService: Conversion error com.thoughtworks.xstream.converters.ConversionException: No field 'sentBytes' found in class 'org.apache.jmeter.samplers.SampleSaveConfiguration' : No field 'sentBytes' found in class 'org.apache.jmeter.samplers.SampleSaveConfiguration'
+2018/05/10 13:55:25 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: Loading user properties from: E:\eclipse-workspace\APItest\target\jmeter\bin\user.properties 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: Loading system properties from: E:\eclipse-workspace\APItest\target\jmeter\bin\system.properties 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: Copyright (c) 1998-2014 The Apache Software Foundation 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: Version 2.11 r1554548 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: java.version=1.8.0_161 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: os.name=Windows 10 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: os.arch=amd64 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: os.version=10.0 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: file.encoding=GBK 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: JMeterHome=E:\eclipse-workspace\APItest\target\jmeter 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: user.dir  =E:\eclipse-workspace\APItest\target\jmeter\bin 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: PWD       =E:\eclipse-workspace\APItest\target\jmeter\bin 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: IP: 10.72.1.99 Name: EPCNSZUW0068 FullName: windows10.microdone.cn 
+2018/05/10 13:55:25 INFO  - jmeter.services.FileServer: Default base='E:\eclipse-workspace\APItest\target\jmeter\bin' 
+2018/05/10 13:55:25 INFO  - jmeter.services.FileServer: Set new base='E:\eclipse-workspace\APItest\src\test\jmeter' 
+2018/05/10 13:55:25 INFO  - jmeter.JMeter: Loading file: E:\eclipse-workspace\APItest\src\test\jmeter\WeatherWS.jmx 
+2018/05/10 13:55:25 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2018/05/10 13:55:25 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2018/05/10 13:55:25 INFO  - jmeter.save.SaveService: Using SaveService properties version 4.0 
+2018/05/10 13:55:25 WARN  - jmeter.save.SaveService: Bad _version - expected 2.6, found 4.0. 
+2018/05/10 13:55:25 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2018/05/10 13:55:25 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/05/10 13:55:25 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/05/10 13:55:25 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/05/10 13:55:25 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/05/10 13:55:25 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2018/05/10 13:55:25 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2018/05/10 13:55:25 ERROR - jmeter.save.SaveService: Conversion error com.thoughtworks.xstream.converters.ConversionException: No field 'sentBytes' found in class 'org.apache.jmeter.samplers.SampleSaveConfiguration' : No field 'sentBytes' found in class 'org.apache.jmeter.samplers.SampleSaveConfiguration'
 ---- Debugging information ----
 message             : No field 'sentBytes' found in class 'org.apache.jmeter.samplers.SampleSaveConfiguration'
 cause-exception     : com.thoughtworks.xstream.converters.reflection.MissingFieldException
@@ -89,7 +89,7 @@ path                : /jmeterTestPlan/hashTree/hashTree/hashTree/ResultCollector
 line number         : 217
 version             : 2.11 r1554548
 ------------------------------- 
-2018/05/10 13:30:41 ERROR - jmeter.JMeter: Error in NonGUIDriver java.lang.NullPointerException
+2018/05/10 13:55:25 ERROR - jmeter.JMeter: Error in NonGUIDriver java.lang.NullPointerException
 	at org.apache.jmeter.gui.tree.JMeterTreeModel.addSubTree(JMeterTreeModel.java:92)
 	at org.apache.jmeter.JMeter.runNonGui(JMeter.java:754)
 	at org.apache.jmeter.JMeter.startNonGui(JMeter.java:732)
